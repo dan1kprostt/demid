@@ -1,0 +1,23 @@
+body{
+    padding-left: 300px;
+    padding-right: 300px;
+}   
+
+
+html {
+  background-size: 100%;
+  background-image: url(Aq.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}	
+
+
+p {
+  color: white;
+}
+
+
+h1 {
+  color: white;
+}
